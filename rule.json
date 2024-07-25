@@ -1,6 +1,7 @@
 [
     {
         "id" : "aba21e3d-6e25-40aa-b052-cfc0db18b031",
+        "name": "test1",
         "value": "localhost",
         "details": [
             {
