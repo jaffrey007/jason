@@ -31,6 +31,7 @@
     },
     {
         "id" : "aba88adc-6e25-40aa-b052-cfc0db18b031",
+        "name": "test2",
         "value": "localhost",
         "details": [
             {
